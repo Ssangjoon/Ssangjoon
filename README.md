@@ -1,7 +1,7 @@
 ## Welcome 
 `Lee Sang Joon` **GitHub** 
 <img align="right" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<hr>
+
 <div align="center">
   <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="80" height="80" />
   <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
