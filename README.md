@@ -1,10 +1,10 @@
 ## Welcome 
 `Lee Sang Joon` **GitHub** 
-<img align="right" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a src="https://www.notion.so/FullStack-Programmer-fb361709d0a242ccaf8389e41bca2c3e"><img align="right" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a> 
 
 <div align="center">
   <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="80" height="80" />
-  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> 
 </div>
 
 <h3 align="center"><b>💪 Skill Set 💪</b></h3>
