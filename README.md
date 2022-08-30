@@ -8,7 +8,7 @@
   <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> 
 </div>
 
-<h3 align="center"><b>💪 Skill Set 💪</b></h3>
+<h3 align="center"><b> Skill Set </b></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"/></a>  
