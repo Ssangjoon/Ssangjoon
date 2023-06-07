@@ -3,12 +3,9 @@
 `Lee Sang Joon` **GitHub** 
 <a href="https://unmarred-heliotrope-856.notion.site/FullStack-Programmer-fb361709d0a242ccaf8389e41bca2c3e">
    -->
-<img align="center" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&"/></a>
 
-<div align="center">
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="80" height="80" />
-  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> 
-</div>
+
+
 
 <!-- 
 <h3 align="center"><b> Skill Set </b></h3>
@@ -39,6 +36,14 @@
 <div align=center>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SangJoon's%20Github&fontSize=90" />
+   
+   
+
+   <div align="center">
+      <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="80" height="80" />
+      <img  src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&"/></a>
+      <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> 
+   </div>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssangjoon&show_icons=true&theme=radical)
   
